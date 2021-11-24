@@ -1,2 +1,1 @@
-# azurerm_app_service_virtual_network_swift_connection_issue
-Showing an issue that exists within the azurerm_app_service_virtual_network_swift_connection  terraform resource when attaching an app service across subscriptions
+link to github issue: https://github.com/hashicorp/terraform-provider-azurerm/issues/14321
